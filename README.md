@@ -14,7 +14,11 @@
 - Clique em acessar.
 - Caso o sistema apresente algum erro de conexão, certifique-se de que suas informações coincidam com as do servidor corretamente.
 
-### Como utilizar o sistema:
+### - Como utilizar o sistema:
 - O cadastro de clientes serve tanto para pesquisa quanto para editar um cliente já existente. Sendo assim, para utilizar a pesquisa, basta passar os filtros que gostaria de utilizar.
 - Caso queira editar um cliente, clique sobre o nome do cliente em questão na tabela, altere os dados que precisar, e por fim clique em salvar.
 - Caso queira excluir um cliente, o procedimento é o mesmo. Basta clicar sobre o nome do cliente, e depois em excluir.
+
+### - Como abrir o projeto: 
+- Clique sobre o projeto Project1
+- Caso não possua as referências de ADODB para os Recordsets, Text Mask e o ListView, será preciso adicioná-las: Microsoft ActiveX Data Objects x.x Library, Microsoft Windows Common Controls x.x e Microsoft Masked Edit Control 6.0 
